@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Library</title>
+    <style>
+        
+        /* @media (prefers-color-scheme: dark) {
+        html, img, video, iframe {
+            filter: invert(1);
+        }
+        } */
+
+        body {
+            font-family: Times, "Times New Roman", Georgia, serif;
+            margin: 0;
+            padding: 0;
+            /* background-color: #c694d4; */
+        }
+
+        .main{
+            background-color: #c694d4;
+
+        }
+
+        .navbar {
+            background-color: #333;
+            overflow: hidden;
+            padding: 10px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            color: white;
+        }
+
+        .navbar a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-size: 18px;
+        }
+
+        .navbar a:hover {
+            text-decoration: underline;
+        }
+
+        .main {
+            padding: 20px;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 25px;
+        }
+
+        .book-card {
+            border: 1px solid #2d2b2b;
+            border-radius: 8px;
+            padding: 15px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.4);
+            background-color: #e29191;
+        }
+
+        .book-card h3 {
+            margin: 0 0 10px;
+            font-size: 18px;
+        }
+
+        .book-card p {
+            margin: 5px 0;
+            color: #000000;
+        }
+
+        .quotes {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        .quotes li {
+            margin-bottom: 20px;
+            padding: 10px;
+            border-left: 5px solid #333;
+            background-color: #f9f9f9;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <div class="navbar">
+        <div>My Library</div>
+        <div>
+            <a href="#">Home</a>
+            <a href="quotes.html">Quotes</a>
+        </div>
+    </div>
+
+    <div class="main" id="library">
+        <h1>Books</h1>
+        <div class="grid" id="books-grid">
+            <!-- Books will be dynamically inserted here -->
+        </div>
+    </div>
+
+    <script>
+        async function loadBooks() {
+            const response = await fetch('books.json');
+            const books = await response.json();
+            const booksGrid = document.getElementById('books-grid', { mode: 'no-cors' });
+            console.log(books)
+
+            books.forEach(book => {
+                const bookCard = document.createElement('div');
+                bookCard.className = 'book-card';
+
+                bookCard.innerHTML = `
+                    <center>
+                    <a href = "${book.url}" target="_blank">
+                    <img src="${book.cover_url}" alt="Book Cover URL" height="200" >
+                    </a>
+                    <h3>${book.title}</h3>
+                    <p><strong>Author:</strong> ${book.author}</p>
+                    <p><strong>My Rating:</strong> ${book.user_rating}</p>
+                    <p><strong>Average Rating:</strong> ${book.avg_rating}</p>
+                    </center>
+                `;
+
+                booksGrid.appendChild(bookCard);
+            });
+        }
+
+        loadBooks();
+    </script>
+</body>
+</html>

@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quotes with Books</title>
+    <style>
+        body {
+            font-family: Times, "Times New Roman", Georgia, serif;
+            margin: 0;
+            padding: 0;
+        }
+        .main{
+            background-color: #697cd3;
+        }
+        .navbar {
+            background-color: #333;
+            overflow: hidden;
+            padding: 10px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            color: white;
+        }
+        .navbar a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-size: 18px;
+        }
+        .navbar a:hover {
+            text-decoration: underline;
+        }
+        .main {
+            padding: 20px;
+        }
+        .book-section {
+            margin-bottom: 30px;
+            padding: 15px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            background-color: #df85dc;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        .book-header {
+            display: flex;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+        .book-header img {
+            width: 80px;
+            height: auto;
+            margin-right: 20px;
+            border-radius: 4px;
+        }
+        .book-info {
+            color: #555;
+        }
+        .book-title {
+            font-weight: bold;
+            margin: 0;
+        }
+        .quote-text {
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="navbar">
+        <div>My Library</div>
+        <div>
+            <a href="index.html">Home</a>
+            <a href="quotes.html">Quotes</a>
+        </div>
+    </div>
+    <div class="main" id="library">
+        <h1>Quotes</h1>
+        <div class="container" id="quotes-container">
+            <!-- Quotes and book information will be dynamically rendered here -->
+        </div>
+    </div>
+
+    
+
+    <script>
+        
+
+        async function loadAndDisplayQuotes() {
+            // Load books.json and clippings.json
+            const booksResponse = await fetch('books.json');
+            const books = await booksResponse.json();
+            const clippingsResponse = await fetch('clippings.json');
+            const clippings = await clippingsResponse.json();
+
+            // Create a lookup object for books by title
+            const bookLookup = {};
+            books.forEach(book => {
+                bookLookup[book.title] = book;
+            });
+
+            function findBookByTitle(searchTitle) {
+            const match = Object.values(bookLookup).find(book =>
+                book.title.includes(searchTitle) || searchTitle.includes(book.title)
+            );
+            return match;
+            }
+            
+
+            // Container for displaying quotes
+            const container = document.getElementById('quotes-container');
+
+            // Process each book and its quotes from clippings.json
+            for (const [bookTitle, quotes] of Object.entries(clippings)) {
+
+
+                // if(!bookLookup[bookTitle]){
+                //     console.log("here");
+                //     console.log(findBookByTitle(bookTitle));
+                // }
+
+                const book = bookLookup[bookTitle] || findBookByTitle(bookTitle) || {
+                    title: bookTitle,
+                    author: 'Unknown',
+                    cover_url: 'placeholder.jpg', // Default image if no cover is available
+                };
+
+                // Create a section for the book and its quotes
+                const bookSection = document.createElement('div');
+                bookSection.className = 'book-section';
+
+                bookSection.innerHTML = `
+                    <div class="book-header">
+                        <img src="${book.cover_url}" alt="Book Cover">
+                        <div>
+                            <p class="book-title">${book.title}</p>
+                            <p class="book-info">by ${book.author}</p>
+                        </div>
+                    </div>
+                `;
+
+                // Add quotes for the book
+                quotes.forEach(quote => {
+                    const quoteParagraph = document.createElement('p');
+                    quoteParagraph.className = 'quote-text';
+                    quoteParagraph.textContent = `"${quote}"`;
+                    bookSection.appendChild(quoteParagraph);
+                });
+
+                container.appendChild(bookSection);
+            }
+        }
+
+        loadAndDisplayQuotes();
+    </script>
+</body>
+</html>
