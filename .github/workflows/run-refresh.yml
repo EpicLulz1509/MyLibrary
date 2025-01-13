@@ -13,7 +13,7 @@ jobs:
     - name: run scraping.py
       uses: actions/checkout@v2
       with:
-        repository: MyLibrary
+        repository: {EpicLulz1509}/{MyLibrary}
 
     - name: run scraping.py
       run: python scraping.py
