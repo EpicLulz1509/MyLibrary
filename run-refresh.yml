@@ -1,0 +1,20 @@
+
+name: On Push Run
+
+on: push
+
+
+
+jobs:
+  hello-world:
+    name: Hello world
+    runs-on: ubuntu-latest
+    steps:
+    - name: run scraping.py
+      uses: actions/checkout@v2
+      with:
+        repository: MyLibrary
+
+    - name: run scraping.py
+      run: python scraping.py
+      shell: sh
