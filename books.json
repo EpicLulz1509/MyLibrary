@@ -1,11 +1,43 @@
 [
     {
+        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1525110825i/36307634.jpg",
+        "url": "https://www.goodreads.com//book/show/36307634-king-of-scars",
+        "title": "King of Scars(King of Scars, #1)",
+        "author": "Bardugo, Leigh*",
+        "avg_rating": "4.16",
+        "user_rating": "4/5"
+    },
+    {
+        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1369842991i/17997353.jpg",
+        "url": "https://www.goodreads.com//book/show/17997353-the-tailor",
+        "title": "The Tailor(The Shadow and Bone Trilogy, #1.5)",
+        "author": "Bardugo, Leigh*",
+        "avg_rating": "3.72",
+        "user_rating": "3/5"
+    },
+    {
+        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1392398530i/14061957.jpg",
+        "url": "https://www.goodreads.com//book/show/14061957-ruin-and-rising",
+        "title": "Ruin and Rising(The Shadow and Bone Trilogy, #3)",
+        "author": "Bardugo, Leigh*",
+        "avg_rating": "3.98",
+        "user_rating": "3/5"
+    },
+    {
+        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1362166252i/14061955.jpg",
+        "url": "https://www.goodreads.com//book/show/14061955-siege-and-storm",
+        "title": "Siege and Storm(The Shadow and Bone Trilogy, #2)",
+        "author": "Bardugo, Leigh*",
+        "avg_rating": "3.81",
+        "user_rating": "2/5"
+    },
+    {
         "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1519072763i/37834723.jpg",
         "url": "https://www.goodreads.com//book/show/37834723-shadow-and-bone",
         "title": "Shadow and Bone(Shadow and Bone, #1)",
         "author": "Bardugo, Leigh*",
         "avg_rating": "3.92",
-        "user_rating": "4/5"
+        "user_rating": "3/5"
     },
     {
         "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1372506728i/16316.jpg",
@@ -52,7 +84,7 @@
         "url": "https://www.goodreads.com//book/show/40142464-you-owe-me-a-murder",
         "title": "You Owe Me a Murder",
         "author": "Cook, Eileen*",
-        "avg_rating": "3.53",
+        "avg_rating": "3.54",
         "user_rating": "2/5"
     },
     {
@@ -60,7 +92,7 @@
         "url": "https://www.goodreads.com//book/show/61439040-1984",
         "title": "1984",
         "author": "Orwell, George",
-        "avg_rating": "4.19",
+        "avg_rating": "4.20",
         "user_rating": "5/5"
     },
     {
@@ -68,7 +100,7 @@
         "url": "https://www.goodreads.com//book/show/170448.Animal_Farm",
         "title": "Animal Farm",
         "author": "Orwell, George",
-        "avg_rating": "3.99",
+        "avg_rating": "4.00",
         "user_rating": "4/5"
     },
     {
@@ -92,7 +124,7 @@
         "url": "https://www.goodreads.com//book/show/31348457-penumbra",
         "title": "Penumbra(Janardan Maity, #1)",
         "author": "Bhaskar Chattopadhyay*",
-        "avg_rating": "4.05",
+        "avg_rating": "4.06",
         "user_rating": "4/5"
     },
     {
@@ -116,7 +148,7 @@
         "url": "https://www.goodreads.com//book/show/56085402-best-served-cold",
         "title": "Best Served Cold(Janardan Maity, #4)",
         "author": "Bhaskar Chattopadhyay*",
-        "avg_rating": "4.34",
+        "avg_rating": "4.35",
         "user_rating": "3/5"
     },
     {
@@ -132,7 +164,7 @@
         "url": "https://www.goodreads.com//book/show/56943102-club-you-to-death",
         "title": "Club You To Death(ACP Bhavani Singh, #1)",
         "author": "Chauhan, Anuja*",
-        "avg_rating": "3.60",
+        "avg_rating": "3.59",
         "user_rating": "4/5"
     },
     {
@@ -140,7 +172,7 @@
         "url": "https://www.goodreads.com//book/show/21897920-dead-girls-society",
         "title": "Dead Girls Society",
         "author": "Krys, Michelle*",
-        "avg_rating": "3.65",
+        "avg_rating": "3.64",
         "user_rating": "2/5"
     },
     {
@@ -212,7 +244,7 @@
         "url": "https://www.goodreads.com//book/show/40916679-a-good-girl-s-guide-to-murder",
         "title": "A Good Girl's Guide to Murder(A Good Girl's Guide to Murder, #1)",
         "author": "Jackson, Holly*",
-        "avg_rating": "4.31",
+        "avg_rating": "4.30",
         "user_rating": "4/5"
     },
     {

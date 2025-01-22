@@ -73,6 +73,7 @@ while True:
 
 output_file = "books.json"
 with open(output_file, "w", encoding="utf-8") as file:
+    print(books_data)
     json.dump(books_data, file, ensure_ascii=False, indent=4)
 
 print(f"Scraped data from {page - 1} pages saved to {output_file}")

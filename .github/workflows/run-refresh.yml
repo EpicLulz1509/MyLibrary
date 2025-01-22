@@ -6,6 +6,8 @@ on: push
 jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
+    permissions: 
+      contents: write
     steps:
       - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
       - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
@@ -28,4 +30,16 @@ jobs:
         run: pip install -r requirements.txt
       - name: Run script
         run: python scraping.py 
-      
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: books.json
+          path: books.json
+      - name: Commit data
+        shell: pwsh 
+        run: |
+            & git config --local user.email "duttaarunopal@gmail.com"
+            & git config --local user.name "EpicLulz1509"
+            & git add books.json
+            & git commit -m "Add books.json"
+            & git push origin dev102
