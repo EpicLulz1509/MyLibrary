@@ -28,4 +28,9 @@ jobs:
         run: pip install -r requirements.txt
       - name: Run script
         run: python scraping.py 
+      - name: Upload artifact
+        uses: actions/upload-artifact@v1
+        with:
+          name: books.json
+          path: books.json
       
