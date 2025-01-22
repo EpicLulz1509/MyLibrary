@@ -38,6 +38,8 @@ jobs:
       - name: Commit data
         shell: pwsh 
         run: |
+            & git config --local user.email "duttaarunopal@gmail.com"
+            & git config --local user.name "EpicLulz1509"
             & git add books.json
             & git commit -m "Add books.json"
             & git push origin dev102
