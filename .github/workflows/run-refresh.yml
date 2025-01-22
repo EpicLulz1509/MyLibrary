@@ -6,6 +6,8 @@ on: push
 jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
+    permissions: 
+      contents: write
     steps:
       - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
       - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
@@ -33,4 +35,10 @@ jobs:
         with:
           name: books.json
           path: books.json
-      
+      - name: Commit data
+        shell: pwsh 
+        run: |
+            & git add books.json
+            & git commit -m "Add books.json"
+            & git push origin dev102
+            }
