@@ -41,4 +41,3 @@ jobs:
             & git add books.json
             & git commit -m "Add books.json"
             & git push origin dev102
-            }
