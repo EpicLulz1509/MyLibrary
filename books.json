@@ -1,10 +1,34 @@
 [
     {
+        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1617768316i/68428.jpg",
+        "url": "https://www.goodreads.com//book/show/68428.Mistborn",
+        "title": "Mistborn: The Final Empire(Mistborn, #1)",
+        "author": "Sanderson, Brandon*",
+        "avg_rating": "4.49",
+        "user_rating": ""
+    },
+    {
+        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1582287822i/46000520.jpg",
+        "url": "https://www.goodreads.com//book/show/46000520-the-thursday-murder-club",
+        "title": "The Thursday Murder Club(Thursday Murder Club, #1)",
+        "author": "Osman, Richard",
+        "avg_rating": "3.87",
+        "user_rating": "3/5"
+    },
+    {
+        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1598133584i/36307674.jpg",
+        "url": "https://www.goodreads.com//book/show/36307674-rule-of-wolves",
+        "title": "Rule of Wolves(King of Scars, #2)",
+        "author": "Bardugo, Leigh*",
+        "avg_rating": "4.35",
+        "user_rating": "4/5"
+    },
+    {
         "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1525110825i/36307634.jpg",
         "url": "https://www.goodreads.com//book/show/36307634-king-of-scars",
         "title": "King of Scars(King of Scars, #1)",
         "author": "Bardugo, Leigh*",
-        "avg_rating": "4.16",
+        "avg_rating": "4.15",
         "user_rating": "4/5"
     },
     {
@@ -108,7 +132,7 @@
         "url": "https://www.goodreads.com//book/show/13079982-fahrenheit-451",
         "title": "Fahrenheit 451",
         "author": "Bradbury, Ray",
-        "avg_rating": "3.96",
+        "avg_rating": "3.97",
         "user_rating": "4/5"
     },
     {
@@ -124,7 +148,7 @@
         "url": "https://www.goodreads.com//book/show/31348457-penumbra",
         "title": "Penumbra(Janardan Maity, #1)",
         "author": "Bhaskar Chattopadhyay*",
-        "avg_rating": "4.06",
+        "avg_rating": "4.05",
         "user_rating": "4/5"
     },
     {
@@ -132,8 +156,16 @@
         "url": "https://www.goodreads.com//book/show/34953165-here-falls-the-shadow",
         "title": "Here Falls the Shadow(Janardan Maity, #2)",
         "author": "Bhaskar Chattopadhyay*",
-        "avg_rating": "4.31",
+        "avg_rating": "4.30",
         "user_rating": "4/5"
+    },
+    {
+        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1717082585i/214027096.jpg",
+        "url": "https://www.goodreads.com//book/show/214027096-aperture",
+        "title": "Aperture",
+        "author": "Bhaskar Chattopadhyay*",
+        "avg_rating": "4.11",
+        "user_rating": "3/5"
     },
     {
         "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1526843236i/40183115.jpg",
@@ -148,7 +180,7 @@
         "url": "https://www.goodreads.com//book/show/56085402-best-served-cold",
         "title": "Best Served Cold(Janardan Maity, #4)",
         "author": "Bhaskar Chattopadhyay*",
-        "avg_rating": "4.35",
+        "avg_rating": "4.34",
         "user_rating": "3/5"
     },
     {
@@ -156,7 +188,7 @@
         "url": "https://www.goodreads.com//book/show/199364437-the-fast-and-the-dead",
         "title": "The Fast and the Dead(ACP Bhavani Singh, #2)",
         "author": "Chauhan, Anuja*",
-        "avg_rating": "3.72",
+        "avg_rating": "3.71",
         "user_rating": "4/5"
     },
     {
@@ -196,7 +228,7 @@
         "url": "https://www.goodreads.com//book/show/18635622-a-knight-of-the-seven-kingdoms",
         "title": "A Knight of the Seven Kingdoms(The Tales of Dunk and Egg, #1-3)",
         "author": "Martin, George R.R.",
-        "avg_rating": "4.24",
+        "avg_rating": "4.25",
         "user_rating": "4/5"
     },
     {
@@ -204,7 +236,7 @@
         "url": "https://www.goodreads.com//book/show/39943621-fire-blood",
         "title": "Fire & Blood(A Targaryen History, #1)",
         "author": "Martin, George R.R.",
-        "avg_rating": "4.04",
+        "avg_rating": "4.05",
         "user_rating": "4/5"
     },
     {
@@ -236,7 +268,7 @@
         "url": "https://www.goodreads.com//book/show/51335759-good-girl-bad-blood",
         "title": "Good Girl, Bad Blood(A Good Girl's Guide to Murder, #2)",
         "author": "Jackson, Holly*",
-        "avg_rating": "4.28",
+        "avg_rating": "4.27",
         "user_rating": "4/5"
     },
     {
