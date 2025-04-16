@@ -1,11 +1,35 @@
 [
     {
+        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388208739i/16297.jpg",
+        "url": "https://www.goodreads.com//book/show/16297.Cards_on_the_Table",
+        "title": "Cards on the Table(Hercule Poirot, #15)",
+        "author": "Christie, Agatha",
+        "avg_rating": "3.96",
+        "user_rating": "4/5"
+    },
+    {
+        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1672574587i/60531406.jpg",
+        "url": "https://www.goodreads.com//book/show/60531406-tress-of-the-emerald-sea",
+        "title": "Tress of the Emerald Sea",
+        "author": "Sanderson, Brandon*",
+        "avg_rating": "4.35",
+        "user_rating": "3/5"
+    },
+    {
+        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1619538925i/68429.jpg",
+        "url": "https://www.goodreads.com//book/show/68429.The_Well_of_Ascension",
+        "title": "The Well of Ascension(Mistborn, #2)",
+        "author": "Sanderson, Brandon*",
+        "avg_rating": "4.39",
+        "user_rating": "4/5"
+    },
+    {
         "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1617768316i/68428.jpg",
         "url": "https://www.goodreads.com//book/show/68428.Mistborn",
         "title": "Mistborn: The Final Empire(Mistborn, #1)",
         "author": "Sanderson, Brandon*",
         "avg_rating": "4.49",
-        "user_rating": ""
+        "user_rating": "4/5"
     },
     {
         "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1582287822i/46000520.jpg",
@@ -180,7 +204,7 @@
         "url": "https://www.goodreads.com//book/show/56085402-best-served-cold",
         "title": "Best Served Cold(Janardan Maity, #4)",
         "author": "Bhaskar Chattopadhyay*",
-        "avg_rating": "4.34",
+        "avg_rating": "4.35",
         "user_rating": "3/5"
     },
     {
@@ -188,7 +212,7 @@
         "url": "https://www.goodreads.com//book/show/199364437-the-fast-and-the-dead",
         "title": "The Fast and the Dead(ACP Bhavani Singh, #2)",
         "author": "Chauhan, Anuja*",
-        "avg_rating": "3.71",
+        "avg_rating": "3.70",
         "user_rating": "4/5"
     },
     {
@@ -212,7 +236,7 @@
         "url": "https://www.goodreads.com//book/show/35031085-frankenstein",
         "title": "Frankenstein: The 1818 Text",
         "author": "Shelley, Mary",
-        "avg_rating": "3.88",
+        "avg_rating": "3.89",
         "user_rating": "4/5"
     },
     {
