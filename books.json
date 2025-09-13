@@ -1,5 +1,69 @@
 [
     {
+        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659766387i/28698036.jpg",
+        "url": "https://www.goodreads.com//book/show/28698036-secret-history",
+        "title": "Secret History(Mistborn, #3.5)",
+        "author": "Sanderson, Brandon*",
+        "avg_rating": "4.32",
+        "user_rating": "4/5"
+    },
+    {
+        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1693499434i/65213859.jpg",
+        "url": "https://www.goodreads.com//book/show/65213859-the-lost-metal",
+        "title": "The Lost Metal(Mistborn: Wax & Wayne, #4)",
+        "author": "Sanderson, Brandon*",
+        "avg_rating": "4.48",
+        "user_rating": "4/5"
+    },
+    {
+        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1705594711i/199190261.jpg",
+        "url": "https://www.goodreads.com//book/show/199190261-wrath-of-the-triple-goddess",
+        "title": "Wrath of the Triple Goddess(Percy Jackson and the Olympians: The Senior Year Adventures, #2)",
+        "author": "Riordan, Rick*",
+        "avg_rating": "4.15",
+        "user_rating": "4/5"
+    },
+    {
+        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1730639847i/18739426.jpg",
+        "url": "https://www.goodreads.com//book/show/18739426-the-bands-of-mourning",
+        "title": "The Bands of Mourning(Mistborn, #6)",
+        "author": "Sanderson, Brandon*",
+        "avg_rating": "4.41",
+        "user_rating": "4/5"
+    },
+    {
+        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659900268i/16065004.jpg",
+        "url": "https://www.goodreads.com//book/show/16065004-shadows-of-self",
+        "title": "Shadows of Self(Mistborn, #5)",
+        "author": "Sanderson, Brandon*",
+        "avg_rating": "4.26",
+        "user_rating": "4/5"
+    },
+    {
+        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442889632i/10803121.jpg",
+        "url": "https://www.goodreads.com//book/show/10803121-the-alloy-of-law",
+        "title": "The Alloy of Law(Mistborn, #4)",
+        "author": "Sanderson, Brandon*",
+        "avg_rating": "4.20",
+        "user_rating": "4/5"
+    },
+    {
+        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1609035271i/41804.jpg",
+        "url": "https://www.goodreads.com//book/show/41804.I_Robot",
+        "title": "I, Robot(Robot, #0.1)",
+        "author": "Asimov, Isaac",
+        "avg_rating": "4.21",
+        "user_rating": "4/5"
+    },
+    {
+        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1628563911i/2767793.jpg",
+        "url": "https://www.goodreads.com//book/show/2767793-the-hero-of-ages",
+        "title": "The Hero of Ages(Mistborn, #3)",
+        "author": "Sanderson, Brandon*",
+        "avg_rating": "4.56",
+        "user_rating": "5/5"
+    },
+    {
         "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388208739i/16297.jpg",
         "url": "https://www.goodreads.com//book/show/16297.Cards_on_the_Table",
         "title": "Cards on the Table(Hercule Poirot, #15)",
@@ -12,7 +76,7 @@
         "url": "https://www.goodreads.com//book/show/60531406-tress-of-the-emerald-sea",
         "title": "Tress of the Emerald Sea",
         "author": "Sanderson, Brandon*",
-        "avg_rating": "4.35",
+        "avg_rating": "4.33",
         "user_rating": "3/5"
     },
     {
@@ -20,7 +84,7 @@
         "url": "https://www.goodreads.com//book/show/68429.The_Well_of_Ascension",
         "title": "The Well of Ascension(Mistborn, #2)",
         "author": "Sanderson, Brandon*",
-        "avg_rating": "4.39",
+        "avg_rating": "4.38",
         "user_rating": "4/5"
     },
     {
@@ -44,7 +108,7 @@
         "url": "https://www.goodreads.com//book/show/36307674-rule-of-wolves",
         "title": "Rule of Wolves(King of Scars, #2)",
         "author": "Bardugo, Leigh*",
-        "avg_rating": "4.35",
+        "avg_rating": "4.34",
         "user_rating": "4/5"
     },
     {
@@ -68,7 +132,7 @@
         "url": "https://www.goodreads.com//book/show/14061957-ruin-and-rising",
         "title": "Ruin and Rising(The Shadow and Bone Trilogy, #3)",
         "author": "Bardugo, Leigh*",
-        "avg_rating": "3.98",
+        "avg_rating": "3.97",
         "user_rating": "3/5"
     },
     {
@@ -76,7 +140,7 @@
         "url": "https://www.goodreads.com//book/show/14061955-siege-and-storm",
         "title": "Siege and Storm(The Shadow and Bone Trilogy, #2)",
         "author": "Bardugo, Leigh*",
-        "avg_rating": "3.81",
+        "avg_rating": "3.80",
         "user_rating": "2/5"
     },
     {
@@ -108,7 +172,7 @@
         "url": "https://www.goodreads.com//book/show/22299763-crooked-kingdom",
         "title": "Crooked Kingdom(Six of Crows, #2)",
         "author": "Bardugo, Leigh*",
-        "avg_rating": "4.58",
+        "avg_rating": "4.57",
         "user_rating": "3/5"
     },
     {
@@ -116,7 +180,7 @@
         "url": "https://www.goodreads.com//book/show/23437156-six-of-crows",
         "title": "Six of Crows(Six of Crows, #1)",
         "author": "Bardugo, Leigh*",
-        "avg_rating": "4.47",
+        "avg_rating": "4.46",
         "user_rating": "4/5"
     },
     {
@@ -132,8 +196,16 @@
         "url": "https://www.goodreads.com//book/show/40142464-you-owe-me-a-murder",
         "title": "You Owe Me a Murder",
         "author": "Cook, Eileen*",
-        "avg_rating": "3.54",
+        "avg_rating": "3.53",
         "user_rating": "2/5"
+    },
+    {
+        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1678127541i/123193218.jpg",
+        "url": "https://www.goodreads.com//book/show/123193218-ward-d",
+        "title": "Ward D",
+        "author": "McFadden, Freida*",
+        "avg_rating": "3.97",
+        "user_rating": "4/5"
     },
     {
         "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657781256i/61439040.jpg",
@@ -148,7 +220,7 @@
         "url": "https://www.goodreads.com//book/show/170448.Animal_Farm",
         "title": "Animal Farm",
         "author": "Orwell, George",
-        "avg_rating": "4.00",
+        "avg_rating": "4.01",
         "user_rating": "4/5"
     },
     {
@@ -164,7 +236,7 @@
         "url": "https://www.goodreads.com//book/show/203094595-acts-of-god",
         "title": "Acts of God",
         "author": "Gill, Kanan",
-        "avg_rating": "3.91",
+        "avg_rating": "3.89",
         "user_rating": "4/5"
     },
     {
@@ -186,9 +258,9 @@
     {
         "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1717082585i/214027096.jpg",
         "url": "https://www.goodreads.com//book/show/214027096-aperture",
-        "title": "Aperture",
+        "title": "Aperture(Janardan Maity, #5)",
         "author": "Bhaskar Chattopadhyay*",
-        "avg_rating": "4.11",
+        "avg_rating": "4.01",
         "user_rating": "3/5"
     },
     {
@@ -196,7 +268,7 @@
         "url": "https://www.goodreads.com//book/show/40183115-the-disappearance-of-sally-sequeira",
         "title": "The Disappearance of Sally Sequeira(Janardan Maity, #3)",
         "author": "Bhaskar Chattopadhyay*",
-        "avg_rating": "4.14",
+        "avg_rating": "4.16",
         "user_rating": "3/5"
     },
     {
@@ -204,7 +276,7 @@
         "url": "https://www.goodreads.com//book/show/56085402-best-served-cold",
         "title": "Best Served Cold(Janardan Maity, #4)",
         "author": "Bhaskar Chattopadhyay*",
-        "avg_rating": "4.35",
+        "avg_rating": "4.34",
         "user_rating": "3/5"
     },
     {
@@ -284,7 +356,7 @@
         "url": "https://www.goodreads.com//book/show/56905097-as-good-as-dead",
         "title": "As Good As Dead(A Good Girl's Guide to Murder, #3)",
         "author": "Jackson, Holly*",
-        "avg_rating": "4.20",
+        "avg_rating": "4.19",
         "user_rating": "4/5"
     },
     {
@@ -292,7 +364,7 @@
         "url": "https://www.goodreads.com//book/show/51335759-good-girl-bad-blood",
         "title": "Good Girl, Bad Blood(A Good Girl's Guide to Murder, #2)",
         "author": "Jackson, Holly*",
-        "avg_rating": "4.27",
+        "avg_rating": "4.26",
         "user_rating": "4/5"
     },
     {
@@ -300,11 +372,11 @@
         "url": "https://www.goodreads.com//book/show/40916679-a-good-girl-s-guide-to-murder",
         "title": "A Good Girl's Guide to Murder(A Good Girl's Guide to Murder, #1)",
         "author": "Jackson, Holly*",
-        "avg_rating": "4.30",
+        "avg_rating": "4.29",
         "user_rating": "4/5"
     },
     {
-        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1574805682i/22557272.jpg",
+        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1748242265i/22557272.jpg",
         "url": "https://www.goodreads.com//book/show/22557272-the-girl-on-the-train",
         "title": "The Girl on the Train",
         "author": "Hawkins, Paula*",
