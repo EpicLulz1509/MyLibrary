@@ -42,4 +42,4 @@ jobs:
             & git config --local user.name "EpicLulz1509"
             & git add books.json
             & git commit -m "Add books.json"
-            & git push origin dev102
+            & git push origin main
