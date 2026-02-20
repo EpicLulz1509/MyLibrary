@@ -1,393 +1,625 @@
 [
     {
-        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1649424135i/58957615.jpg",
-        "url": "https://www.goodreads.com//book/show/58957615-the-bullet-that-missed",
-        "title": "The Bullet That Missed(Thursday Murder Club, #3)",
-        "author": "Osman, Richard",
-        "avg_rating": "4.36",
+        "title": "Elantris (Elantris, #1)",
+        "author": "Brandon Sanderson",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9780765350374-L.jpg",
+        "url": "https://www.goodreads.com/book/show/68427",
+        "avg_rating": "4.17",
+        "user_rating": "3/5"
+    },
+    {
+        "title": "A Game of Thrones (A Song of Ice and Fire, #1)",
+        "author": "George R.R. Martin",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9780553588484-L.jpg",
+        "url": "https://www.goodreads.com/book/show/13496",
+        "avg_rating": "4.45",
         "user_rating": "4/5"
     },
     {
-        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659766387i/28698036.jpg",
-        "url": "https://www.goodreads.com//book/show/28698036-secret-history",
-        "title": "Secret History(Mistborn, #3.5)",
-        "author": "Sanderson, Brandon*",
-        "avg_rating": "4.32",
-        "user_rating": "4/5"
-    },
-    {
-        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1693499434i/65213859.jpg",
-        "url": "https://www.goodreads.com//book/show/65213859-the-lost-metal",
-        "title": "The Lost Metal(Mistborn: Wax & Wayne, #4)",
-        "author": "Sanderson, Brandon*",
-        "avg_rating": "4.48",
-        "user_rating": "4/5"
-    },
-    {
-        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1705594711i/199190261.jpg",
-        "url": "https://www.goodreads.com//book/show/199190261-wrath-of-the-triple-goddess",
-        "title": "Wrath of the Triple Goddess(Percy Jackson and the Olympians: The Senior Year Adventures, #2)",
-        "author": "Riordan, Rick*",
-        "avg_rating": "4.15",
-        "user_rating": "4/5"
-    },
-    {
-        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1730639847i/18739426.jpg",
-        "url": "https://www.goodreads.com//book/show/18739426-the-bands-of-mourning",
-        "title": "The Bands of Mourning(Mistborn, #6)",
-        "author": "Sanderson, Brandon*",
-        "avg_rating": "4.41",
-        "user_rating": "4/5"
-    },
-    {
-        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659900268i/16065004.jpg",
-        "url": "https://www.goodreads.com//book/show/16065004-shadows-of-self",
-        "title": "Shadows of Self(Mistborn, #5)",
-        "author": "Sanderson, Brandon*",
-        "avg_rating": "4.26",
-        "user_rating": "4/5"
-    },
-    {
-        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442889632i/10803121.jpg",
-        "url": "https://www.goodreads.com//book/show/10803121-the-alloy-of-law",
-        "title": "The Alloy of Law(Mistborn, #4)",
-        "author": "Sanderson, Brandon*",
-        "avg_rating": "4.20",
-        "user_rating": "4/5"
-    },
-    {
-        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1609035271i/41804.jpg",
-        "url": "https://www.goodreads.com//book/show/41804.I_Robot",
-        "title": "I, Robot(Robot, #0.1)",
-        "author": "Asimov, Isaac",
-        "avg_rating": "4.21",
-        "user_rating": "4/5"
-    },
-    {
-        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1628563911i/2767793.jpg",
-        "url": "https://www.goodreads.com//book/show/2767793-the-hero-of-ages",
-        "title": "The Hero of Ages(Mistborn, #3)",
-        "author": "Sanderson, Brandon*",
-        "avg_rating": "4.56",
+        "title": "A Clash of Kings  (A Song of Ice and Fire, #2)",
+        "author": "George R.R. Martin",
+        "cover_url": "https://covers.openlibrary.org/b/id/8231751-L.jpg",
+        "url": "https://www.goodreads.com/book/show/10572",
+        "avg_rating": "4.42",
         "user_rating": "5/5"
     },
     {
-        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388208739i/16297.jpg",
-        "url": "https://www.goodreads.com//book/show/16297.Cards_on_the_Table",
-        "title": "Cards on the Table(Hercule Poirot, #15)",
-        "author": "Christie, Agatha",
-        "avg_rating": "3.96",
+        "title": "A Storm of Swords (A Song of Ice and Fire, #3)",
+        "author": "George R.R. Martin",
+        "cover_url": "https://covers.openlibrary.org/b/id/15124196-L.jpg",
+        "url": "https://www.goodreads.com/book/show/62291",
+        "avg_rating": "4.55",
+        "user_rating": "5/5"
+    },
+    {
+        "title": "A Feast for Crows (A Song of Ice and Fire, #4)",
+        "author": "George R.R. Martin",
+        "cover_url": "https://covers.openlibrary.org/b/id/6501256-L.jpg",
+        "url": "https://www.goodreads.com/book/show/13497",
+        "avg_rating": "4.17",
         "user_rating": "4/5"
     },
     {
-        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1672574587i/60531406.jpg",
-        "url": "https://www.goodreads.com//book/show/60531406-tress-of-the-emerald-sea",
-        "title": "Tress of the Emerald Sea",
-        "author": "Sanderson, Brandon*",
-        "avg_rating": "4.33",
-        "user_rating": "3/5"
-    },
-    {
-        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1619538925i/68429.jpg",
-        "url": "https://www.goodreads.com//book/show/68429.The_Well_of_Ascension",
-        "title": "The Well of Ascension(Mistborn, #2)",
-        "author": "Sanderson, Brandon*",
-        "avg_rating": "4.38",
-        "user_rating": "4/5"
-    },
-    {
-        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1617768316i/68428.jpg",
-        "url": "https://www.goodreads.com//book/show/68428.Mistborn",
-        "title": "Mistborn: The Final Empire(Mistborn, #1)",
-        "author": "Sanderson, Brandon*",
-        "avg_rating": "4.49",
-        "user_rating": "4/5"
-    },
-    {
-        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1582287822i/46000520.jpg",
-        "url": "https://www.goodreads.com//book/show/46000520-the-thursday-murder-club",
-        "title": "The Thursday Murder Club(Thursday Murder Club, #1)",
-        "author": "Osman, Richard",
-        "avg_rating": "3.87",
-        "user_rating": "3/5"
-    },
-    {
-        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1598133584i/36307674.jpg",
-        "url": "https://www.goodreads.com//book/show/36307674-rule-of-wolves",
-        "title": "Rule of Wolves(King of Scars, #2)",
-        "author": "Bardugo, Leigh*",
+        "title": "A Dance with Dragons (A Song of Ice and Fire, #5)",
+        "author": "George R.R. Martin",
+        "cover_url": "https://covers.openlibrary.org/b/id/11298743-L.jpg",
+        "url": "https://www.goodreads.com/book/show/10664113",
         "avg_rating": "4.34",
-        "user_rating": "4/5"
-    },
-    {
-        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1525110825i/36307634.jpg",
-        "url": "https://www.goodreads.com//book/show/36307634-king-of-scars",
-        "title": "King of Scars(King of Scars, #1)",
-        "author": "Bardugo, Leigh*",
-        "avg_rating": "4.15",
-        "user_rating": "4/5"
-    },
-    {
-        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1369842991i/17997353.jpg",
-        "url": "https://www.goodreads.com//book/show/17997353-the-tailor",
-        "title": "The Tailor(The Shadow and Bone Trilogy, #1.5)",
-        "author": "Bardugo, Leigh*",
-        "avg_rating": "3.72",
-        "user_rating": "3/5"
-    },
-    {
-        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1392398530i/14061957.jpg",
-        "url": "https://www.goodreads.com//book/show/14061957-ruin-and-rising",
-        "title": "Ruin and Rising(The Shadow and Bone Trilogy, #3)",
-        "author": "Bardugo, Leigh*",
-        "avg_rating": "3.97",
-        "user_rating": "3/5"
-    },
-    {
-        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1362166252i/14061955.jpg",
-        "url": "https://www.goodreads.com//book/show/14061955-siege-and-storm",
-        "title": "Siege and Storm(The Shadow and Bone Trilogy, #2)",
-        "author": "Bardugo, Leigh*",
-        "avg_rating": "3.80",
-        "user_rating": "2/5"
-    },
-    {
-        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1519072763i/37834723.jpg",
-        "url": "https://www.goodreads.com//book/show/37834723-shadow-and-bone",
-        "title": "Shadow and Bone(Shadow and Bone, #1)",
-        "author": "Bardugo, Leigh*",
-        "avg_rating": "3.92",
-        "user_rating": "3/5"
-    },
-    {
-        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1372506728i/16316.jpg",
-        "url": "https://www.goodreads.com//book/show/16316.The_Big_Four",
-        "title": "The Big Four(Hercule Poirot, #5)",
-        "author": "Christie, Agatha",
-        "avg_rating": "3.57",
-        "user_rating": "4/5"
-    },
-    {
-        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1571423190i/41057294.jpg",
-        "url": "https://www.goodreads.com//book/show/41057294-normal-people",
-        "title": "Normal People",
-        "author": "Rooney, Sally*",
-        "avg_rating": "3.81",
         "user_rating": "5/5"
     },
     {
-        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1456172607i/22299763.jpg",
-        "url": "https://www.goodreads.com//book/show/22299763-crooked-kingdom",
-        "title": "Crooked Kingdom(Six of Crows, #2)",
-        "author": "Bardugo, Leigh*",
-        "avg_rating": "4.57",
-        "user_rating": "3/5"
-    },
-    {
-        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1651710803i/23437156.jpg",
-        "url": "https://www.goodreads.com//book/show/23437156-six-of-crows",
-        "title": "Six of Crows(Six of Crows, #1)",
-        "author": "Bardugo, Leigh*",
-        "avg_rating": "4.46",
-        "user_rating": "4/5"
-    },
-    {
-        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1435248277i/23272028.jpg",
-        "url": "https://www.goodreads.com//book/show/23272028-a-study-in-charlotte",
-        "title": "A Study in Charlotte(Charlotte Holmes, #1)",
-        "author": "Cavallaro, Brittany*",
-        "avg_rating": "3.75",
-        "user_rating": "2/5"
-    },
-    {
-        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1548112506i/40142464.jpg",
-        "url": "https://www.goodreads.com//book/show/40142464-you-owe-me-a-murder",
-        "title": "You Owe Me a Murder",
-        "author": "Cook, Eileen*",
-        "avg_rating": "3.53",
-        "user_rating": "2/5"
-    },
-    {
-        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1678127541i/123193218.jpg",
-        "url": "https://www.goodreads.com//book/show/123193218-ward-d",
-        "title": "Ward D",
-        "author": "McFadden, Freida*",
-        "avg_rating": "3.97",
-        "user_rating": "4/5"
-    },
-    {
-        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657781256i/61439040.jpg",
-        "url": "https://www.goodreads.com//book/show/61439040-1984",
-        "title": "1984",
-        "author": "Orwell, George",
-        "avg_rating": "4.20",
-        "user_rating": "5/5"
-    },
-    {
-        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1325861570i/170448.jpg",
-        "url": "https://www.goodreads.com//book/show/170448.Animal_Farm",
-        "title": "Animal Farm",
-        "author": "Orwell, George",
-        "avg_rating": "4.01",
-        "user_rating": "4/5"
-    },
-    {
-        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1383718290i/13079982.jpg",
-        "url": "https://www.goodreads.com//book/show/13079982-fahrenheit-451",
-        "title": "Fahrenheit 451",
-        "author": "Bradbury, Ray",
-        "avg_rating": "3.97",
-        "user_rating": "4/5"
-    },
-    {
-        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1703659965i/203094595.jpg",
-        "url": "https://www.goodreads.com//book/show/203094595-acts-of-god",
-        "title": "Acts of God",
-        "author": "Gill, Kanan",
-        "avg_rating": "3.89",
-        "user_rating": "4/5"
-    },
-    {
-        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1470310571i/31348457.jpg",
-        "url": "https://www.goodreads.com//book/show/31348457-penumbra",
-        "title": "Penumbra(Janardan Maity, #1)",
-        "author": "Bhaskar Chattopadhyay*",
-        "avg_rating": "4.05",
-        "user_rating": "4/5"
-    },
-    {
-        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1493100983i/34953165.jpg",
-        "url": "https://www.goodreads.com//book/show/34953165-here-falls-the-shadow",
-        "title": "Here Falls the Shadow(Janardan Maity, #2)",
-        "author": "Bhaskar Chattopadhyay*",
-        "avg_rating": "4.30",
-        "user_rating": "4/5"
-    },
-    {
-        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1717082585i/214027096.jpg",
-        "url": "https://www.goodreads.com//book/show/214027096-aperture",
-        "title": "Aperture(Janardan Maity, #5)",
-        "author": "Bhaskar Chattopadhyay*",
-        "avg_rating": "4.01",
-        "user_rating": "3/5"
-    },
-    {
-        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1526843236i/40183115.jpg",
-        "url": "https://www.goodreads.com//book/show/40183115-the-disappearance-of-sally-sequeira",
-        "title": "The Disappearance of Sally Sequeira(Janardan Maity, #3)",
-        "author": "Bhaskar Chattopadhyay*",
-        "avg_rating": "4.16",
-        "user_rating": "3/5"
-    },
-    {
-        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1606670525i/56085402.jpg",
-        "url": "https://www.goodreads.com//book/show/56085402-best-served-cold",
-        "title": "Best Served Cold(Janardan Maity, #4)",
-        "author": "Bhaskar Chattopadhyay*",
-        "avg_rating": "4.34",
-        "user_rating": "3/5"
-    },
-    {
-        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1697005377i/199364437.jpg",
-        "url": "https://www.goodreads.com//book/show/199364437-the-fast-and-the-dead",
-        "title": "The Fast and the Dead(ACP Bhavani Singh, #2)",
-        "author": "Chauhan, Anuja*",
-        "avg_rating": "3.70",
-        "user_rating": "4/5"
-    },
-    {
-        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1612413609i/56943102.jpg",
-        "url": "https://www.goodreads.com//book/show/56943102-club-you-to-death",
-        "title": "Club You To Death(ACP Bhavani Singh, #1)",
-        "author": "Chauhan, Anuja*",
-        "avg_rating": "3.59",
-        "user_rating": "4/5"
-    },
-    {
-        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1449289032i/21897920.jpg",
-        "url": "https://www.goodreads.com//book/show/21897920-dead-girls-society",
-        "title": "Dead Girls Society",
-        "author": "Krys, Michelle*",
-        "avg_rating": "3.64",
-        "user_rating": "2/5"
-    },
-    {
-        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1631088473i/35031085.jpg",
-        "url": "https://www.goodreads.com//book/show/35031085-frankenstein",
-        "title": "Frankenstein: The 1818 Text",
-        "author": "Shelley, Mary",
-        "avg_rating": "3.89",
-        "user_rating": "4/5"
-    },
-    {
-        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1400360220i/17345242.jpg",
-        "url": "https://www.goodreads.com//book/show/17345242-the-world-of-ice-fire",
-        "title": "The World of Ice & Fire: The Untold History of Westeros and the Game of Thrones",
-        "author": "Martin, George R.R.",
+        "title": "Mythos: The Greek Myths Retold (Stephen Fry's Great Mythology, #1)",
+        "author": "Stephen Fry",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9780718188726-L.jpg",
+        "url": "https://www.goodreads.com/book/show/35074096",
         "avg_rating": "4.26",
         "user_rating": "4/5"
     },
     {
-        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1693445229i/18635622.jpg",
-        "url": "https://www.goodreads.com//book/show/18635622-a-knight-of-the-seven-kingdoms",
-        "title": "A Knight of the Seven Kingdoms(The Tales of Dunk and Egg, #1-3)",
-        "author": "Martin, George R.R.",
-        "avg_rating": "4.25",
+        "title": "Heroes: Mortals and Monsters, Quests and Adventures (Stephen Fry's Great Mythology, #2)",
+        "author": "Stephen Fry",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9780241380376-L.jpg",
+        "url": "https://www.goodreads.com/book/show/41433634",
+        "avg_rating": "4.31",
         "user_rating": "4/5"
     },
     {
-        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1532828095i/39943621.jpg",
-        "url": "https://www.goodreads.com//book/show/39943621-fire-blood",
-        "title": "Fire & Blood(A Targaryen History, #1)",
-        "author": "Martin, George R.R.",
-        "avg_rating": "4.05",
+        "title": "Troy (Stephen Fry's Great Mythology, #3)",
+        "author": "Stephen Fry",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9780241424582-L.jpg",
+        "url": "https://www.goodreads.com/book/show/53443339",
+        "avg_rating": "4.35",
         "user_rating": "4/5"
     },
     {
-        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1340751070i/1963165.jpg",
-        "url": "https://www.goodreads.com//book/show/1963165.Sherlock_Holmes_vs_Dracula",
-        "title": "Sherlock Holmes vs. Dracula",
-        "author": "Estleman, Loren D.",
-        "avg_rating": "3.89",
-        "user_rating": "3/5"
-    },
-    {
-        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387151694i/17245.jpg",
-        "url": "https://www.goodreads.com//book/show/17245.Dracula",
-        "title": "Dracula",
-        "author": "Stoker, Bram",
-        "avg_rating": "4.02",
-        "user_rating": "5/5"
-    },
-    {
-        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1623112782i/56905097.jpg",
-        "url": "https://www.goodreads.com//book/show/56905097-as-good-as-dead",
-        "title": "As Good As Dead(A Good Girl's Guide to Murder, #3)",
-        "author": "Jackson, Holly*",
-        "avg_rating": "4.19",
-        "user_rating": "4/5"
-    },
-    {
-        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1588319723i/51335759.jpg",
-        "url": "https://www.goodreads.com//book/show/51335759-good-girl-bad-blood",
-        "title": "Good Girl, Bad Blood(A Good Girl's Guide to Murder, #2)",
-        "author": "Jackson, Holly*",
-        "avg_rating": "4.26",
-        "user_rating": "4/5"
-    },
-    {
-        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1545494980i/40916679.jpg",
-        "url": "https://www.goodreads.com//book/show/40916679-a-good-girl-s-guide-to-murder",
-        "title": "A Good Girl's Guide to Murder(A Good Girl's Guide to Murder, #1)",
-        "author": "Jackson, Holly*",
+        "title": "Odyssey (Stephen Fry's Great Mythology, #4)",
+        "author": "Stephen Fry",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9781405948418-L.jpg",
+        "url": "https://www.goodreads.com/book/show/55886800",
         "avg_rating": "4.29",
         "user_rating": "4/5"
     },
     {
-        "cover_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1748242265i/22557272.jpg",
-        "url": "https://www.goodreads.com//book/show/22557272-the-girl-on-the-train",
+        "title": "Dune Messiah (Dune #2)",
+        "author": "Frank Herbert",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9780593098233-L.jpg",
+        "url": "https://www.goodreads.com/book/show/44492285",
+        "avg_rating": "3.89",
+        "user_rating": "4/5"
+    },
+    {
+        "title": "Dune (Dune, #1)",
+        "author": "Frank Herbert",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9780593099322-L.jpg",
+        "url": "https://www.goodreads.com/book/show/44767458",
+        "avg_rating": "4.29",
+        "user_rating": "4/5"
+    },
+    {
+        "title": "Children of Dune (Dune #3)",
+        "author": "Frank Herbert",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9780593098240-L.jpg",
+        "url": "https://www.goodreads.com/book/show/44492286",
+        "avg_rating": "3.95",
+        "user_rating": "4/5"
+    },
+    {
+        "title": "God Emperor of Dune (Dune #4)",
+        "author": "Frank Herbert",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9780593098257-L.jpg",
+        "url": "https://www.goodreads.com/book/show/44439415",
+        "avg_rating": "3.88",
+        "user_rating": "3/5"
+    },
+    {
+        "title": "Romeo and Juliet",
+        "author": "William Shakespeare",
+        "cover_url": "",
+        "url": "https://www.goodreads.com/book/show/59926998",
+        "avg_rating": "3.74",
+        "user_rating": "3/5"
+    },
+    {
+        "title": "A Midsummer Night’s Dream",
+        "author": "William Shakespeare",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9780743477543-L.jpg",
+        "url": "https://www.goodreads.com/book/show/1622",
+        "avg_rating": "3.94",
+        "user_rating": "3/5"
+    },
+    {
+        "title": "Hamlet",
+        "author": "William Shakespeare",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9780521618748-L.jpg",
+        "url": "https://www.goodreads.com/book/show/1420",
+        "avg_rating": "4.03",
+        "user_rating": "3/5"
+    },
+    {
+        "title": "Julius Caesar",
+        "author": "William Shakespeare",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9780198320272-L.jpg",
+        "url": "https://www.goodreads.com/book/show/13006",
+        "avg_rating": "3.71",
+        "user_rating": "4/5"
+    },
+    {
+        "title": "The Merchant of Venice",
+        "author": "William Shakespeare",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9780743477567-L.jpg",
+        "url": "https://www.goodreads.com/book/show/24128",
+        "avg_rating": "3.77",
+        "user_rating": "4/5"
+    },
+    {
+        "title": "The Hunger Games (The Hunger Games, #1)",
+        "author": "Suzanne Collins",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9780439023481-L.jpg",
+        "url": "https://www.goodreads.com/book/show/2767052",
+        "avg_rating": "4.35",
+        "user_rating": "4/5"
+    },
+    {
+        "title": "Mockingjay (The Hunger Games, #3)",
+        "author": "Suzanne Collins",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9780439023511-L.jpg",
+        "url": "https://www.goodreads.com/book/show/7260188",
+        "avg_rating": "4.12",
+        "user_rating": "4/5"
+    },
+    {
+        "title": "Catching Fire (The Hunger Games, #2)",
+        "author": "Suzanne Collins",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9780439023498-L.jpg",
+        "url": "https://www.goodreads.com/book/show/6148028",
+        "avg_rating": "4.36",
+        "user_rating": "3/5"
+    },
+    {
+        "title": "The Ballad of Songbirds and Snakes (The Hunger Games, #0)",
+        "author": "Suzanne Collins",
+        "cover_url": "https://covers.openlibrary.org/b/id/14421833-L.jpg",
+        "url": "https://www.goodreads.com/book/show/51901147",
+        "avg_rating": "3.99",
+        "user_rating": "4/5"
+    },
+    {
+        "title": "Sunrise on the Reaping (The Hunger Games, #0.5)",
+        "author": "Suzanne Collins",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9781546171461-L.jpg",
+        "url": "https://www.goodreads.com/book/show/214331246",
+        "avg_rating": "4.50",
+        "user_rating": "4/5"
+    },
+    {
+        "title": "The Song of Achilles",
+        "author": "Madeline Miller",
+        "cover_url": "https://covers.openlibrary.org/b/id/7098465-L.jpg",
+        "url": "https://www.goodreads.com/book/show/13623848",
+        "avg_rating": "4.30",
+        "user_rating": "4/5"
+    },
+    {
+        "title": "Circe",
+        "author": "Madeline Miller",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9780316556347-L.jpg",
+        "url": "https://www.goodreads.com/book/show/35959740",
+        "avg_rating": "4.22",
+        "user_rating": "4/5"
+    },
+    {
+        "title": "The Devotion of Suspect X (Detective Galileo, #1)",
+        "author": "Keigo Higashino",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9780312375065-L.jpg",
+        "url": "https://www.goodreads.com/book/show/8686068",
+        "avg_rating": "4.17",
+        "user_rating": "3/5"
+    },
+    {
+        "title": "Katabasis",
+        "author": "R.F. Kuang",
+        "cover_url": "https://covers.openlibrary.org/b/id/15117021-L.jpg",
+        "url": "https://www.goodreads.com/book/show/210223811",
+        "avg_rating": "3.77",
+        "user_rating": "3/5"
+    },
+    {
+        "title": "The Teacher",
+        "author": "Freida McFadden",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9781728296210-L.jpg",
+        "url": "https://www.goodreads.com/book/show/195967140",
+        "avg_rating": "3.89",
+        "user_rating": "3/5"
+    },
+    {
+        "title": "The Bullet That Missed (Thursday Murder Club, #3)",
+        "author": "Richard Osman",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9780241512425-L.jpg",
+        "url": "https://www.goodreads.com/book/show/58957615",
+        "avg_rating": "4.35",
+        "user_rating": "4/5"
+    },
+    {
+        "title": "Ward D",
+        "author": "Freida McFadden",
+        "cover_url": "https://covers.openlibrary.org/b/id/15125127-L.jpg",
+        "url": "https://www.goodreads.com/book/show/123193218",
+        "avg_rating": "3.96",
+        "user_rating": "4/5"
+    },
+    {
+        "title": "Secret History (Mistborn, #3.5)",
+        "author": "Brandon Sanderson",
+        "cover_url": "https://covers.openlibrary.org/b/id/8737946-L.jpg",
+        "url": "https://www.goodreads.com/book/show/28698036",
+        "avg_rating": "4.31",
+        "user_rating": "4/5"
+    },
+    {
+        "title": "The Lost Metal (Mistborn: Wax & Wayne, #4)",
+        "author": "Brandon Sanderson",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9781250757319-L.jpg",
+        "url": "https://www.goodreads.com/book/show/65213859",
+        "avg_rating": "4.48",
+        "user_rating": "4/5"
+    },
+    {
+        "title": "Wrath of the Triple Goddess (Percy Jackson and the Olympians: The Senior Year Adventures, #2)",
+        "author": "Rick Riordan",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9781368112383-L.jpg",
+        "url": "https://www.goodreads.com/book/show/199190261",
+        "avg_rating": "4.13",
+        "user_rating": "4/5"
+    },
+    {
+        "title": "Shadows of Self (Mistborn, #5)",
+        "author": "Brandon Sanderson",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9780765378552-L.jpg",
+        "url": "https://www.goodreads.com/book/show/16065004",
+        "avg_rating": "4.26",
+        "user_rating": "4/5"
+    },
+    {
+        "title": "The Bands of Mourning (Mistborn, #6)",
+        "author": "Brandon Sanderson",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9781466862678-L.jpg",
+        "url": "https://www.goodreads.com/book/show/18739426",
+        "avg_rating": "4.40",
+        "user_rating": "4/5"
+    },
+    {
+        "title": "The Alloy of Law (Mistborn, #4)",
+        "author": "Brandon Sanderson",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9780765330420-L.jpg",
+        "url": "https://www.goodreads.com/book/show/10803121",
+        "avg_rating": "4.19",
+        "user_rating": "4/5"
+    },
+    {
+        "title": "I, Robot (Robot, #0.1)",
+        "author": "Isaac Asimov",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9780553803709-L.jpg",
+        "url": "https://www.goodreads.com/book/show/41804",
+        "avg_rating": "4.21",
+        "user_rating": "4/5"
+    },
+    {
+        "title": "The Hero of Ages (Mistborn, #3)",
+        "author": "Brandon Sanderson",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9780765316899-L.jpg",
+        "url": "https://www.goodreads.com/book/show/2767793",
+        "avg_rating": "4.56",
+        "user_rating": "5/5"
+    },
+    {
+        "title": "Cards on the Table (Hercule Poirot, #15)",
+        "author": "Agatha Christie",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9780425205952-L.jpg",
+        "url": "https://www.goodreads.com/book/show/16297",
+        "avg_rating": "3.96",
+        "user_rating": "4/5"
+    },
+    {
+        "title": "Tress of the Emerald Sea (Hoid's Travails, #1)",
+        "author": "Brandon Sanderson",
+        "cover_url": "https://covers.openlibrary.org/b/id/13143232-L.jpg",
+        "url": "https://www.goodreads.com/book/show/60531406",
+        "avg_rating": "4.32",
+        "user_rating": "3/5"
+    },
+    {
+        "title": "The Well of Ascension (Mistborn, #2)",
+        "author": "Brandon Sanderson",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9780765316882-L.jpg",
+        "url": "https://www.goodreads.com/book/show/68429",
+        "avg_rating": "4.38",
+        "user_rating": "4/5"
+    },
+    {
+        "title": "Mistborn: The Final Empire (Mistborn, #1)",
+        "author": "Brandon Sanderson",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9780765311788-L.jpg",
+        "url": "https://www.goodreads.com/book/show/68428",
+        "avg_rating": "4.49",
+        "user_rating": "4/5"
+    },
+    {
+        "title": "Aperture (Janardan Maity, #5)",
+        "author": "Bhaskar Chattopadhyay",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9780143464235-L.jpg",
+        "url": "https://www.goodreads.com/book/show/214027096",
+        "avg_rating": "4.01",
+        "user_rating": "3/5"
+    },
+    {
+        "title": "The Thursday Murder Club (Thursday Murder Club, #1)",
+        "author": "Richard Osman",
+        "cover_url": "https://covers.openlibrary.org/b/id/10201431-L.jpg",
+        "url": "https://www.goodreads.com/book/show/46000520",
+        "avg_rating": "3.86",
+        "user_rating": "3/5"
+    },
+    {
+        "title": "Rule of Wolves (King of Scars, #2)",
+        "author": "Leigh Bardugo",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9781510109186-L.jpg",
+        "url": "https://www.goodreads.com/book/show/36307674",
+        "avg_rating": "4.34",
+        "user_rating": "4/5"
+    },
+    {
+        "title": "Shadow and Bone (Shadow and Bone, #1)",
+        "author": "Leigh Bardugo",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9780805094596-L.jpg",
+        "url": "https://www.goodreads.com/book/show/37834723",
+        "avg_rating": "3.91",
+        "user_rating": "3/5"
+    },
+    {
+        "title": "King of Scars (King of Scars, #1)",
+        "author": "Leigh Bardugo",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9781250142276-L.jpg",
+        "url": "https://www.goodreads.com/book/show/36307634",
+        "avg_rating": "4.15",
+        "user_rating": "4/5"
+    },
+    {
+        "title": "The Tailor (The Shadow and Bone Trilogy, #1.5)",
+        "author": "Leigh Bardugo",
+        "cover_url": "https://covers.openlibrary.org/b/id/12366237-L.jpg",
+        "url": "https://www.goodreads.com/book/show/17997353",
+        "avg_rating": "3.72",
+        "user_rating": "3/5"
+    },
+    {
+        "title": "Ruin and Rising (Shadow and Bone, #3)",
+        "author": "Leigh Bardugo",
+        "cover_url": "https://covers.openlibrary.org/b/id/13282238-L.jpg",
+        "url": "https://www.goodreads.com/book/show/14061957",
+        "avg_rating": "3.97",
+        "user_rating": "3/5"
+    },
+    {
+        "title": "Siege and Storm (The Shadow and Bone Trilogy, #2)",
+        "author": "Leigh Bardugo",
+        "cover_url": "https://covers.openlibrary.org/b/id/10297781-L.jpg",
+        "url": "https://www.goodreads.com/book/show/14061955",
+        "avg_rating": "3.80",
+        "user_rating": "2/5"
+    },
+    {
+        "title": "Six of Crows (Six of Crows, #1)",
+        "author": "Leigh Bardugo",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9781627792127-L.jpg",
+        "url": "https://www.goodreads.com/book/show/23437156",
+        "avg_rating": "4.46",
+        "user_rating": "4/5"
+    },
+    {
+        "title": "Crooked Kingdom (Six of Crows, #2)",
+        "author": "Leigh Bardugo",
+        "cover_url": "https://covers.openlibrary.org/b/id/12667428-L.jpg",
+        "url": "https://www.goodreads.com/book/show/22299763",
+        "avg_rating": "4.57",
+        "user_rating": "3/5"
+    },
+    {
+        "title": "Normal People",
+        "author": "Sally Rooney",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9781984822178-L.jpg",
+        "url": "https://www.goodreads.com/book/show/41057294",
+        "avg_rating": "3.81",
+        "user_rating": "5/5"
+    },
+    {
+        "title": "The Big Four (Hercule Poirot, #5)",
+        "author": "Agatha Christie",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9780007120819-L.jpg",
+        "url": "https://www.goodreads.com/book/show/16316",
+        "avg_rating": "3.57",
+        "user_rating": "4/5"
+    },
+    {
+        "title": "A Study in Charlotte (Charlotte Holmes, #1)",
+        "author": "Brittany Cavallaro",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9780062398901-L.jpg",
+        "url": "https://www.goodreads.com/book/show/23272028",
+        "avg_rating": "3.74",
+        "user_rating": "2/5"
+    },
+    {
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "cover_url": "",
+        "url": "https://www.goodreads.com/book/show/13079982",
+        "avg_rating": "3.97",
+        "user_rating": "4/5"
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9780452284234-L.jpg",
+        "url": "https://www.goodreads.com/book/show/61439040",
+        "avg_rating": "4.20",
+        "user_rating": "5/5"
+    },
+    {
+        "title": "Here Falls the Shadow (Janardan Maity, #2)",
+        "author": "Bhaskar Chattopadhyay",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9789351951704-L.jpg",
+        "url": "https://www.goodreads.com/book/show/34953165",
+        "avg_rating": "4.31",
+        "user_rating": "4/5"
+    },
+    {
+        "title": "Penumbra (Janardan Maity, #1)",
+        "author": "Bhaskar Chattopadhyay",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9788175993815-L.jpg",
+        "url": "https://www.goodreads.com/book/show/31348457",
+        "avg_rating": "4.06",
+        "user_rating": "4/5"
+    },
+    {
+        "title": "You Owe Me a Murder",
+        "author": "Eileen Cook",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9781328519023-L.jpg",
+        "url": "https://www.goodreads.com/book/show/40142464",
+        "avg_rating": "3.54",
+        "user_rating": "2/5"
+    },
+    {
+        "title": "Animal Farm",
+        "author": "George Orwell",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9780451526342-L.jpg",
+        "url": "https://www.goodreads.com/book/show/170448",
+        "avg_rating": "4.02",
+        "user_rating": "4/5"
+    },
+    {
+        "title": "Acts of God",
+        "author": "Kanan Gill",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9789356996991-L.jpg",
+        "url": "https://www.goodreads.com/book/show/203094595",
+        "avg_rating": "3.86",
+        "user_rating": "4/5"
+    },
+    {
+        "title": "Dead Girls Society",
+        "author": "Michelle Krys",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9780553508048-L.jpg",
+        "url": "https://www.goodreads.com/book/show/21897920",
+        "avg_rating": "3.64",
+        "user_rating": "2/5"
+    },
+    {
+        "title": "The Disappearance of Sally Sequeira (Janardan Maity, #3)",
+        "author": "Bhaskar Chattopadhyay",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9789351951728-L.jpg",
+        "url": "https://www.goodreads.com/book/show/40183115",
+        "avg_rating": "4.17",
+        "user_rating": "3/5"
+    },
+    {
+        "title": "Best Served Cold (Janardan Maity, #4)",
+        "author": "Bhaskar Chattopadhyay",
+        "cover_url": "https://covers.openlibrary.org/b/id/14711133-L.jpg",
+        "url": "https://www.goodreads.com/book/show/56085402",
+        "avg_rating": "4.33",
+        "user_rating": "3/5"
+    },
+    {
+        "title": "The Fast and the Dead (ACP Bhavani Singh, #2)",
+        "author": "Anuja Chauhan",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9789356995376-L.jpg",
+        "url": "https://www.goodreads.com/book/show/199364437",
+        "avg_rating": "3.71",
+        "user_rating": "4/5"
+    },
+    {
+        "title": "Club You To Death (ACP Bhavani Singh, #1)",
+        "author": "Anuja Chauhan",
+        "cover_url": "",
+        "url": "https://www.goodreads.com/book/show/56943102",
+        "avg_rating": "3.59",
+        "user_rating": "4/5"
+    },
+    {
+        "title": "Frankenstein: The 1818 Text",
+        "author": "Mary Wollstonecraft Shelley",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9780143131847-L.jpg",
+        "url": "https://www.goodreads.com/book/show/35031085",
+        "avg_rating": "3.91",
+        "user_rating": "4/5"
+    },
+    {
+        "title": "Dracula",
+        "author": "Bram Stoker",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9780393970128-L.jpg",
+        "url": "https://www.goodreads.com/book/show/17245",
+        "avg_rating": "4.02",
+        "user_rating": "5/5"
+    },
+    {
+        "title": "Sherlock Holmes vs. Dracula",
+        "author": "Loren D. Estleman",
+        "cover_url": "https://covers.openlibrary.org/b/id/7163985-L.jpg",
+        "url": "https://www.goodreads.com/book/show/1963165",
+        "avg_rating": "3.89",
+        "user_rating": "3/5"
+    },
+    {
+        "title": "The World of Ice & Fire: The Untold History of Westeros and the Game of Thrones",
+        "author": "George R.R. Martin",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9780553805444-L.jpg",
+        "url": "https://www.goodreads.com/book/show/17345242",
+        "avg_rating": "4.26",
+        "user_rating": "4/5"
+    },
+    {
+        "title": "A Knight of the Seven Kingdoms (The Tales of Dunk and Egg, #1-3)",
+        "author": "George R.R. Martin",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9780345533487-L.jpg",
+        "url": "https://www.goodreads.com/book/show/18635622",
+        "avg_rating": "4.26",
+        "user_rating": "4/5"
+    },
+    {
+        "title": "Fire & Blood (A Targaryen History, #1)",
+        "author": "George R.R. Martin",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9781524796280-L.jpg",
+        "url": "https://www.goodreads.com/book/show/39943621",
+        "avg_rating": "4.05",
+        "user_rating": "4/5"
+    },
+    {
+        "title": "As Good As Dead (A Good Girl's Guide to Murder, #3)",
+        "author": "Holly  Jackson",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9780593379851-L.jpg",
+        "url": "https://www.goodreads.com/book/show/56905097",
+        "avg_rating": "4.19",
+        "user_rating": "4/5"
+    },
+    {
+        "title": "Good Girl, Bad Blood (A Good Girl's Guide to Murder, #2)",
+        "author": "Holly  Jackson",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9781405297752-L.jpg",
+        "url": "https://www.goodreads.com/book/show/51335759",
+        "avg_rating": "4.25",
+        "user_rating": "4/5"
+    },
+    {
+        "title": "A Good Girl's Guide to Murder (A Good Girl's Guide to Murder, #1)",
+        "author": "Holly  Jackson",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9781405293181-L.jpg",
+        "url": "https://www.goodreads.com/book/show/40916679",
+        "avg_rating": "4.28",
+        "user_rating": "4/5"
+    },
+    {
         "title": "The Girl on the Train",
-        "author": "Hawkins, Paula*",
+        "author": "Paula Hawkins",
+        "cover_url": "https://covers.openlibrary.org/b/isbn/9781594633669-L.jpg",
+        "url": "https://www.goodreads.com/book/show/22557272",
         "avg_rating": "3.96",
         "user_rating": "4/5"
     }

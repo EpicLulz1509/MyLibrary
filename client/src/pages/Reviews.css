@@ -1,0 +1,152 @@
+.reviews-page {
+  animation: fadeIn 0.5s ease-in;
+}
+
+.review-count {
+  font-size: 1.1rem;
+  opacity: 0.9;
+}
+
+.reviews-container {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.review-card {
+  background: rgba(255, 255, 255, 0.95);
+  border-radius: 16px;
+  padding: 2rem;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease;
+}
+
+.review-card:hover {
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.3);
+  transform: translateY(-4px);
+}
+
+.review-header {
+  display: flex;
+  gap: 1.5rem;
+  margin-bottom: 1.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 2px solid #e0e0e0;
+}
+
+.review-cover {
+  width: 120px;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease;
+}
+
+.review-cover:hover {
+  transform: scale(1.05);
+}
+
+.review-header-info {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.review-title {
+  font-size: 1.6rem;
+  color: #333;
+  margin: 0;
+}
+
+.review-title a {
+  color: #333;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.review-title a:hover {
+  color: #667eea;
+}
+
+.review-author {
+  color: #666;
+  font-style: italic;
+  font-size: 1.1rem;
+  margin: 0;
+}
+
+.review-rating {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.review-rating .rating-label {
+  font-size: 0.95rem;
+  color: #888;
+  font-weight: 600;
+}
+
+.review-rating .rating-value {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #f39c12;
+}
+
+.review-content {
+  padding: 1rem 0;
+}
+
+.review-text {
+  font-size: 1.05rem;
+  line-height: 1.8;
+  color: #444;
+  text-align: justify;
+}
+
+.no-reviews {
+  text-align: center;
+  padding: 4rem 2rem;
+  color: white;
+}
+
+.no-reviews p {
+  font-size: 1.3rem;
+  margin-bottom: 1rem;
+}
+
+.command-hint {
+  display: inline-block;
+  background: rgba(0, 0, 0, 0.7);
+  padding: 0.8rem 1.5rem;
+  border-radius: 8px;
+  font-family: 'Courier New', monospace;
+  font-size: 1.1rem;
+  color: #4ade80;
+}
+
+@media (max-width: 768px) {
+  .review-card {
+    padding: 1.5rem;
+  }
+
+  .review-header {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .review-cover {
+    width: 100px;
+  }
+
+  .review-title {
+    font-size: 1.3rem;
+  }
+
+  .review-text {
+    font-size: 0.95rem;
+  }
+}
