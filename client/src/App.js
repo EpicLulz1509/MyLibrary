@@ -1,6 +1,7 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Navigation from './components/Navigation';
+import Footer from './components/Footer';
 import Books from './pages/Books';
 import Quotes from './pages/Quotes';
 import Reviews from './pages/Reviews';
@@ -18,6 +19,7 @@ function App() {
             <Route path="/reviews" element={<Reviews />} />
           </Routes>
         </main>
+        <Footer />
       </div>
     </Router>
   );
